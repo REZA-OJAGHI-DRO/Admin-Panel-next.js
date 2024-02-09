@@ -1,7 +1,7 @@
 # Admin-Panel-next.js
 **If you have a lot of information to display on your site, why don't you use my accordion menu**
 
-
+![Screenshot (58)](https://github.com/REZA-OJAGHI-DRO/Admin-Panel-next.js/assets/145910720/49a74714-76fd-4fd3-883c-ce9e5a3e6deb)
 
 - [Demo Project(VPN)](https://admin-panel-next-js-mu.vercel.app/)
  
